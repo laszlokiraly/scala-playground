@@ -1,0 +1,17 @@
+{
+	"name": "Scala Playground",
+	"build": {
+		"dockerfile": "Dockerfile"
+	}
+
+	"settings": {
+        "terminal.integrated.shell.linux": "/bin/zsh"
+	},
+
+	"extensions": [
+		"scalameta.metals",
+		"scala-lang.scala",
+		"CoenraadS.bracket-pair-colorizer"
+	]
+
+}

@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "scala",
+            "request": "launch",
+            "name": "SimpleCalculatorTest",
+            "testClass": "simpletest.SimpleCalculatorTest"
+        }
+    ]
+}
